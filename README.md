@@ -61,3 +61,4 @@ Please refer to the `rich-demo` folder for more details:
 
 
 # my-mac-config
+# my-mac-config
