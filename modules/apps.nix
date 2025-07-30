@@ -107,7 +107,7 @@
       # "ollama"
       # "expo-orbit"
       # "obsidian"
-      "postman"
+      #"postman"
       # "rar"
       # "visual-studio-code"
       # "utm"
