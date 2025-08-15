@@ -89,6 +89,7 @@
       "openjdk@21"
       "scrcpy"
       "maven"
+      "mysql"
     ];
     # `brew install --cask`
     # TODO Feel free to add your favorite apps here.
