@@ -90,6 +90,7 @@
       "scrcpy"
       "maven"
       "mysql"
+      "tomcat"
     ];
     # `brew install --cask`
     # TODO Feel free to add your favorite apps here.
