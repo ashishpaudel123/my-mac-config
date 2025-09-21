@@ -96,7 +96,7 @@
     # TODO Feel free to add your favorite apps here.
     casks = [
       "brave-browser"
-      #"xcodes"
+      # "xcodes"
       # "docker"
       # "firefox"
       # "android-platform-tools"
