@@ -89,6 +89,7 @@
       "openjdk@21"
       "scrcpy"
       "maven"
+      "mongoose"
       "mysql"
       "tomcat"
     ];
